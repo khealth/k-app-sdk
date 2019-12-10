@@ -30,7 +30,7 @@ function getEnv() {
 }
 
 // setup default impl
-_setApp(defaultApp)
+// _setApp(defaultApp)
 
 module.exports = {
     setItem,
