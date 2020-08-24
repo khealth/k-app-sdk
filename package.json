@@ -29,5 +29,10 @@
     "eslint-plugin-react": "^7.16.0",
     "eslint-utils": "^1.4.3",
     "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "acorn": "^5.7.4",
+    "elliptic": "^6.5.3",
+    "lodash": "^4.17.19"
   }
 }
