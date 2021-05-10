@@ -33,6 +33,6 @@
   "dependencies": {
     "acorn": "^5.7.4",
     "elliptic": "^6.5.3",
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   }
 }
